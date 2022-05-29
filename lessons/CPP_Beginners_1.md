@@ -20,8 +20,6 @@ These are ordered by how difficult they are to setup
 - Visual Studio: https://visualstudio.microsoft.com/vs/community/
 - MinGW (closest to what I'll be using): https://www.mingw-w64.org/
 
-## Part 1
-
 ### Hello World and Comments
 
 ```cpp
