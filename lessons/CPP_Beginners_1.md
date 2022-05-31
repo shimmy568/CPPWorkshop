@@ -1,5 +1,9 @@
 # C++ For Beginners Part1
 
+Power point slides used: https://docs.google.com/presentation/d/1eWVMvt6xO-MQN1tuxX_B_WTza85MLRvlMaaXqaxc9Ks/edit?usp=sharing
+
+Video recording of live workshop session: https://www.youtube.com/watch?v=zowYWIM8GN8
+
 ## Installation (Ubuntu only)
 
 > sudo apt-get install g++
